@@ -1,3 +1,4 @@
+#THIS is Dockerfile
 FROM nginx:latest 
 MAINTAINER mavrick202@gmail.com 
 RUN apt install -y curl
